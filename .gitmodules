@@ -1,0 +1,3 @@
+[submodule "Managing-Packages-with-NPM"]
+	path = Managing-Packages-with-NPM
+	url = git@github.com:KacperSzyf/Managing-Packages-with-NPM.git
