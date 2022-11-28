@@ -1,3 +1,6 @@
 [submodule "Managing-Packages-with-NPM"]
 	path = Managing-Packages-with-NPM
 	url = git@github.com:KacperSzyf/Managing-Packages-with-NPM.git
+[submodule "Basic-Node-and-Express"]
+	path = Basic-Node-and-Express
+	url = git@github.com:KacperSzyf/Basic-Node-and-Express.git
